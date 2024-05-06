@@ -1,0 +1,14 @@
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-SingletonPattern\IS-SingletonPattern\bin\Debug\net8.0\IS-SingletonPattern.exe
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-SingletonPattern\IS-SingletonPattern\bin\Debug\net8.0\IS-SingletonPattern.deps.json
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-SingletonPattern\IS-SingletonPattern\bin\Debug\net8.0\IS-SingletonPattern.runtimeconfig.json
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-SingletonPattern\IS-SingletonPattern\bin\Debug\net8.0\IS-SingletonPattern.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-SingletonPattern\IS-SingletonPattern\bin\Debug\net8.0\IS-SingletonPattern.pdb
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-SingletonPattern\IS-SingletonPattern\obj\Debug\net8.0\IS-SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-SingletonPattern\IS-SingletonPattern\obj\Debug\net8.0\IS-SingletonPattern.AssemblyInfoInputs.cache
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-SingletonPattern\IS-SingletonPattern\obj\Debug\net8.0\IS-SingletonPattern.AssemblyInfo.cs
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-SingletonPattern\IS-SingletonPattern\obj\Debug\net8.0\IS-SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-SingletonPattern\IS-SingletonPattern\obj\Debug\net8.0\IS-SingletonPattern.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-SingletonPattern\IS-SingletonPattern\obj\Debug\net8.0\refint\IS-SingletonPattern.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-SingletonPattern\IS-SingletonPattern\obj\Debug\net8.0\IS-SingletonPattern.pdb
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-SingletonPattern\IS-SingletonPattern\obj\Debug\net8.0\IS-SingletonPattern.genruntimeconfig.cache
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\IS-SingletonPattern\IS-SingletonPattern\obj\Debug\net8.0\ref\IS-SingletonPattern.dll
